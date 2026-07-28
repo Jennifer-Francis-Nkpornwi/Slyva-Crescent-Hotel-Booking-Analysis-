@@ -18,7 +18,7 @@ The project began as a business intelligence exercise to answer stakeholder ques
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The hotel management wanted answers to key business questions:
 
@@ -68,7 +68,7 @@ The first dashboard focused on answering the stakeholder questions outlined in t
 
 ---
 
-## 💼 Dashboard 2 – Commercial Impact
+## Dashboard 2 – Commercial Impact
 
 Following valuable stakeholder feedback, I revisited the same dataset with a different business question:
 
@@ -102,7 +102,7 @@ Using **Average Daily Rate (ADR)** and **Length of Stay** as a proxy for booking
 
 ---
 
-# 💡 Stakeholder Recommendations
+# Stakeholder Recommendations
 
 Based on the analysis, I recommended that management:
 
@@ -155,7 +155,7 @@ That shift transformed the project from descriptive reporting into commercial in
 
 ---
 
-# 📁 Project Deliverables
+# Project Deliverables
 
 - ✅ Raw Dataset
 - ✅ Cleaned Dataset
