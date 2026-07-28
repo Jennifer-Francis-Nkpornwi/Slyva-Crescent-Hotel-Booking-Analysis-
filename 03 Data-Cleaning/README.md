@@ -47,7 +47,7 @@ Checked columns for null values and confirmed that fields required for analysis 
 
 ### 4. Date Preparation
 
-Merged the separate **Year**, **Month**, and **Day** columns into a single Date field to support time intelligence and calendar table creation.
+Merged the separate **Year**, **Month**, and **Day** columns into a single Date field 
 
 ---
 
@@ -64,6 +64,14 @@ Verified that the cleaned dataset was ready for:
 - Data Modeling
 - DAX Calculations
 - Dashboard Development
+
+---
+
+## Data Model
+
+The analysis was built using a **single-table data model** based on the cleaned Hotel Bookings dataset.
+
+As all attributes required for analysis were contained within the source dataset, no additional dimension tables or table relationships were required. This simplified model supported all DAX calculations, KPIs, and dashboard visualizations developed for the project.
 
 ---
 
