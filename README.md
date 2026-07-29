@@ -168,7 +168,15 @@ That shift transformed the project from descriptive reporting into commercial in
 - ✅ Business Questions & Answers
 
 ---
+## Project Evolution
 
+The project began as an operational analysis to answer the stakeholder's original business questions.
+
+Following professional feedback, the analysis was extended into a Commercial Impact Dashboard to quantify revenue at risk from booking cancellations and provide decision-focused recommendations for hotel management.
+
+This demonstrates how the same dataset can support different levels of business analysis depending on stakeholder objectives.
+
+---
 # Final Outcome
 
 This project demonstrates my ability to deliver an **end-to-end analytics solution**—from data cleaning and modeling to executive reporting and commercial insight generation.
