@@ -3,7 +3,7 @@
 | Dashboard | Purpose | Audience |
 |-----------|---------|----------|
 | Operational Dashboard | Monitor hotel performance and guest behavior | Operations Manager |
-| Commercial Impact Dashboard | Quantify revenue risk and support business decisions | Executive Management |
+| Commercial  Dashboard | Quantify revenue risk and support business decisions | Executive Management |
 
 ## Overview
 
