@@ -62,8 +62,8 @@ The first dashboard focused on answering the stakeholder questions outlined in t
 
 📷 **Dashboard Preview**
 
-```md
-![Operational Dashboard](10%20Images/hotel-booking-dashboard.png)
+
+![Operational Dashboard](05%20Dashboard/Operational-Dashboard.png)
 ```
 
 ---
@@ -86,10 +86,7 @@ Using **Average Daily Rate (ADR)** and **Length of Stay** as a proxy for booking
 
 📷 **Dashboard Preview**
 
-```md
-![Commercial Impact Dashboard](10%20Images/commercial-impact-dashboard.png)
-```
-
+![Commercial Impact Dashboard](05%20Dashboard/Commercial-Impact-Dashboard.png)
 ---
 
 # Key Business Insights
