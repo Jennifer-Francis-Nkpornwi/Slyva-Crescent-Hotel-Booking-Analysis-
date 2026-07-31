@@ -69,7 +69,7 @@ Move beyond operational reporting by quantifying revenue exposure caused by book
 
 ### Dashboard Preview
 
-![Operational Dashboard](Operational-Dashboard.png)
+![Commercial Dashboard](Commercial-Dashboard.png)
 
 ---
 
