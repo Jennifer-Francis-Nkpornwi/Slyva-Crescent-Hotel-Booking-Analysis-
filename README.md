@@ -86,7 +86,7 @@ Using **Average Daily Rate (ADR)** and **Length of Stay** as a proxy for booking
 
 📷 **Dashboard Preview**
 
-![Commercial Dashboard](05%20Dashboard/Commercial-Dashboard.png)
+![Commercial Dashboard](.05%20Dashboard/Commercial-Dashboard.png)
 ```
 
 ---
